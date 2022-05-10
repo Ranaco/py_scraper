@@ -1,0 +1,2081 @@
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      בלתי מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      בלתי מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      בלתי מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      בלתי מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      בלתי מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
+<button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      בלתי מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      בלתי מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      בלתי מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      בלתי מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      בלתי מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מוגה
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      מאמרים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<img height="28" src="/assets/audio-5e092445fd8b4d7b97fcd9fff071ee3c886f064d2c6247a8738b08d3405facc2.svg" width="28"/>
+      אודיו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+<i class="material-icons">videocam</i>
+      ווידיאו
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button" lang="en">
+      English
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      תוכן ענינים
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      הגהות
+    </button><button class="farbrengen-detail-button farbrengen-detail-button-disabled button">
+      עוד
+    </button>
