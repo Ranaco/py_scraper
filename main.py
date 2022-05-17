@@ -1,3 +1,5 @@
+import re
+from venv import create
 from bs4 import BeautifulSoup
 import bs4
 import requests
@@ -22,170 +24,244 @@ event_links = [] #/
 def formatString(string):
     return ' '.join(i for i in string.split() if i not in banned_words )
 
-def createListOfUniqueDict(event_link_list):
+def createListOfUniqueDict(l_list):
     seen = set()
-    new_l = event_link_list
-    event_link_list = []
+    new_l = l_list
+    l_list = []
     for k in new_l:
         d = tuple(k.items())
         if d not in seen:
             seen.add(d)
-            event_link_list.append(k)
-    return event_link_list
+            l_list.append(k)
+    return l_list
 #---------------------------------------------------------------------------------------------------------------------
 
 #Get the event dates
 # for mon in range(1, 13):
 #     link_list = []
+#     event_a = []
+#     event_b = []
 #     link = []
 #     a = True
 #     for event in range(1, 15):
-#         if (soup.find(id='month_' + str(mon) + "A" + "_farbrengen_" + str(event) + "_button")) == None:
-#             toSearch = "month_" + str(mon) + "_farbrengen_" + str(event) + "_button"
-#             button = soup.find('button', {'id': toSearch})
+#         id_a = "month_" + str(mon) + "A" + "_farbrengen_" + str(event) + "_button"
+#         id = "month_" + str(mon) + "_farbrengen_" + str(event) + "_button"
+#         id_b = "month_" + str(mon) + "B" + "_farbrengen_" + str(event) + "_button"
+#         if (soup.find(id = id_a) == None):
+#             button = soup.find('button', {"id": id})
 #             if(button != None):
-#                 link = button.a.attrs['href'].removeprefix('/').replace('all/', '')
-#             link_list.append(link)
-#             a = not a
-#         else:   
-#             toSearch = "month_" + str(mon) + "A"+ "_farbrengen_" + str(event) + "_button"
-#             button = soup.find('button', {'id': toSearch})
-#             if(button != None):
-#                 link = button.a.attrs['href'].removeprefix('/').replace('all/', '')
-#             link_list.append(link)
-#             a = False
-
+#                 link_list.append(button.a.attrs['href'].removeprefix('/').replace('all/', ''))
+#         elif (soup.find(id = id_a) != None ):
+#             button_a = soup.find('button', {"id": id_a})
+#             button_b = soup.find('button', {"id": id_b})
+#             if(button_a != None):
+#                 event_a.append(button_a.a.attrs['href'].removeprefix('/').replace('all/', ''))
+#             if(button_b != None):
+#                 event_b.append(button_b.a.attrs['href'].removeprefix('/').replace('all/', ''))
+#     event_dates.append(event_a)
+#     event_dates.append(event_b)
 #     event_dates.append(link_list)
-    
+
+
+
+        # if (soup.find(id='month_' + str(mon) + "A" + "_farbrengen_" + str(event) + "_button")) == None:
+        #     toSearch = "month_" + str(mon) + "_farbrengen_" + str(event) + "_button"
+        #     button = soup.find('button', {'id': toSearch})
+        #     if(button != None):
+        #         link = button.a.attrs['href'].removeprefix('/').replace('all/', '')
+        #     link_list.append(link)
+        #     a = not a
+        # else:   
+        #     toSearch = "month_" + str(mon) + "A"+ "_farbrengen_" + str(event) + "_button"
+        #     button = soup.find('button', {'id': toSearch})
+        #     if(button != None):
+        #         link = button.a.attrs['href'].removeprefix('/').replace('all/', '')
+        #     link_list.append(link)
+        #     a = False
+    # event_dates.append(link_list)
+
+# event_dates = [x for x in event_dates if x]
+
+# print(len(event_dates))
+
+# for e in event_dates:
+#     print((e))
+#     print('\n')
 #---------------------------------------------------------------------------------------------------------------------
 
-#Get the month titles
-# for mon in range(1, 13):
-#     if(soup.find('button', {'id': "month_"+str(mon)+"_button"}) != None):
-#         month_titles.append(soup.find('button', {'id': "month_"+str(mon)+"_button"}).text.strip())
+# Get the month titles
+# for mon in range(1, 14):
+#     id = "month_" + str(mon) + "_button"
+#     id_a = "month_" + str(mon) + "A" + "_button"
+#     id_b = "month_" + str(mon) + "B" + "_button"
+#     if soup.find('button', {'id': id_a}) != None:
+#         month_titles.append(soup.find('button', {'id': id_a}).text.strip())
+#         month_titles.append(soup.find('button', {'id': id_b}).text.strip())
+#     elif soup.find('button', {'id': id}) != None:
+#         month_titles.append(soup.find('button', {'id': id}).text.strip())
+
+# for v in month_titles:
+#     print(v)
+    # with open("./months.txt", 'a') as f:
+    #     f.write(str(v) +"\n")
 
 # ---------------------------------------------------------------------------------------------------------------------
 
-#Get the event titles
+# Get the event titles
 # for mon in range(1, 13):
 #     current_event = []
+#     event_a = []
+#     event_b = []
 #     edited_title = ""
 #     for event in range(1, 15):
 #         if (soup.find(id='month_' + str(mon) + "A" + "_farbrengen_" + str(event) + "_button")) == None:
 #             if(soup.find('button', {'id': "month_" + str(mon) + "_farbrengen_" + str(event) + "_button"}) != None):
-#                 edited_title = formatString(soup.find('button', {'id': "month_" + str(mon) + "_farbrengen_" + str(event) + "_button"}).text.strip())
-#             current_event.append(edited_title.strip())
+#                 current_event.append(({
+#                    "event":
+#                     formatString(soup.find('button', {'id': "month_" + str(mon) + "_farbrengen_" + str(event) + "_button"}).text.strip()),
+#                     "month": formatString(soup.find('button', {'id': "month_" + str(mon) + "_farbrengen_" + str(event) + "_button"}).attrs['id'].strip()),
+#                     "link": formatString(soup.find('button', {'id': "month_" + str(mon) + "_farbrengen_" + str(event) + "_button"}).a.attrs['href'].strip())
+#                     }))
 #         else:
 #             if(soup.find('button', {'id': "month_" + str(mon) + "A" + "_farbrengen_" + str(event) + "_button"}) != None):
-#                 edited_title = formatString(soup.find('button', {'id': "month_" + str(mon) + "A" + "_farbrengen_" + str(event) + "_button"}).text.strip())
-#             current_event.append(edited_title.strip())
-#     event_titles.append(current_event)    
+#                 event_a.append(({
+#                    "event":
+#                     formatString(soup.find('button', {'id': "month_" + str(mon) + "A" + "_farbrengen_" + str(event) + "_button"}).text.strip()),
+#                     "month":formatString(soup.find('button', {'id': "month_" + str(mon) + "A" + "_farbrengen_" + str(event) + "_button"}).attrs['id'].strip()).strip(),
+#                     "link":formatString(soup.find('button', {'id': "month_" + str(mon) + "A" + "_farbrengen_" + str(event) + "_button"}).a.attrs['href'].strip())
+#                     }))
+#             if (soup.find('button', {'id': "month_" + str(mon) + "B" + "_farbrengen_" + str(event) + "_button"}) != None):
+#                 event_b.append(({
+#                    "event":
+#                     formatString(soup.find('button', {'id': "month_" + str(mon) + "B" + "_farbrengen_" + str(event) + "_button"}).text.strip()),
+#                     "month":formatString(soup.find('button', {'id': "month_" + str(mon) + "B" + "_farbrengen_" + str(event) + "_button"}).attrs['id'].strip()).strip(),
+#                     "link":formatString(soup.find('button', {'id': "month_" + str(mon) + "B" + "_farbrengen_" + str(event) + "_button"}).a.attrs['href'].strip()),  
+#                     }
+#                     ))
+#     event_titles.append(event_a)
+#     event_titles.append(event_b)
+#     event_titles.append(current_event)  
 
-# dummy_events = event_titles
+# event_titles = [x for x in event_titles if x]
 
-# event_titles = []
-
-# for event in dummy_events:
-#     event_titles.append(list(set(event)))
-
+# for e in event_titles:
+#     print(e)
+#     print('\n')
 # ---------------------------------------------------------------------------------------------------------------------
 
 #Get the event links
-# for mon in range(1, 13):
+# base_url = 'https://www.mafteiach.app'
+# for mon in range(1, 14):
 #     link_list = []
-#     link = []
+#     link_a = []
+#     link_b = []
 #     for event in range(1, 15):
+#         toSearch_a = "month_" + str(mon) + "A"+ "_farbrengen_" + str(event) + "_button"
+#         toSearch_b = "month_" + str(mon) + "B"+ "_farbrengen_" + str(event) + "_button"
 #         if (soup.find(id='month_' + str(mon) + "A" + "_farbrengen_" + str(event) + "_button")) == None:
 #             toSearch = "month_" + str(mon) + "_farbrengen_" + str(event) + "_button"
 #             button = soup.find('button', {'id': toSearch})
 #             if(button != None):
-#                 base_url = 'https://www.mafteiach.app'
-#                 link = (base_url.strip() + button.a.attrs['href'].strip()).strip()
-#             link_list.append(link)
+#                 link = {'title': formatString(button.text.strip()), 'link': base_url.strip() + button.a.attrs['href']}
+#                 link_list.append(link)
 #         else:
-#             toSearch = "month_" + str(mon) + "A"+ "_farbrengen_" + str(event) + "_button"
-#             button = soup.find('button', {'id': toSearch})
-#             if(button != None):
-#                 base_url = 'https://www.mafteiach.app'
-#                 link = (base_url.strip() + button.a.attrs['href'].strip()).strip()
-#             link_list.append(link)
+#             if (soup.find(id='month_' + str(mon) + "A" + "_farbrengen_" + str(event) + "_button")) != None:
+#                 event_a = soup.find('button', {'id': toSearch_a})
+#                 if(event_a != None ):
+#                     link_a.append({'link': (base_url.strip() + event_a.a.attrs['href'].strip()).strip(), 'title': formatString(event_a.text.strip())})
+#             if (soup.find(id='month_' + str(mon) + "B" + "_farbrengen_" + str(event) + "_button")) != None:
+#                 event_b = soup.find('button', {'id': toSearch_b})
+#                 if(event_b != None):
+#                     link_b.append({'link': (base_url.strip() + event_b.a.attrs['href'].strip()).strip(), 'title': formatString(event_b.text.strip())})
+#     event_links.append(link_a)
+#     event_links.append(link_b)
 #     event_links.append(link_list)
+    
+# dummy_list = event_links
 
+# event_links = [x for x in event_links if x] 
+
+# print(len(event_links))
+
+# for e in event_links:
+#     print((e))
+#     print("\n")
 #---------------------------------------------------------------------------------------------------------------------
 
-e_link = []
+# e_link = []
 
-#Get event items
-for mon in range(1, 13):
-    button = soup.find('div', {'id': "month_" + str(mon) + "A" + "_content"}) if soup.find('div', {"id": "month_" + str(mon) + "A" + "_content"}) != None else soup.find('div', {'id': "month_" + str(mon) + "_content"})
-    event_list = []
+base_url = 'https://www.mafteiach.app'
+
+# #Get event items
+for mon in range(1, 14):
+    content_a  = []
+    content_b = []
+    content = []
     for event in range(1, 15):
-        current_event = button.find('div', {'id': "month_" + str(mon) + "A" + "_farbrengen_" + str(event)}) if soup.find('div', {"id": "month_" + str(mon) + "A" + "_farbrengen_" + str(event)}) != None else soup.find('div', {'id': "month_" + str(mon) + "_farbrengen_" + str(event)}) if soup.find('div', {"id": "month_" + str(mon) + "_farbrengen_" + str(event)}) != None else None
-        event_list.append(current_event)
-        for e in event_list:
-            if e != None:
-                id_a = "month_" + str(mon) + "A" + "_farbrengen_" + str(event) + "_content"
-                id = "month_" + str(mon) + "_farbrengen_" + str(event) + "_content"
-                div = e.find('div', {'id': id_a }) if e.find('div', {'id': id_a}) != None else e.find('div', {'id': id})
-                if div != None:
-                    cls = div.find_all('button')
-                    if cls != None:
-                        print("\nThis is the month " + str(mon) + " and event " + str(event)+ "\n")
-                        event_link_list = []
-                        for cl in cls:
-                            if cl.find_next_sibling('div') != None:
-                                div_to_find = cl.find_next_sibling('div')
-                                if div_to_find != None and div_to_find.get('class') != None and div_to_find.get('class')[0].startswith('farbrengen-detail-content'):    
-                                    # print(div_to_find.get('class')[0])
-                                    if div_to_find != None and div_to_find.get('class')[0].startswith('farbrengen-detail-content') and div_to_find.find('a') != None and formatString(div_to_find.find_previous_sibling('button').text.strip()) !="תוכן ענינים":
-                                        lins = div_to_find.find_all('a')
-                                        for l in lins:  
-                                            if l.get('href') != None:
-                                                event_link_list.append({formatString(div_to_find.find_previous_sibling('button').text.strip()): l.attrs['href']})
-                            seen = set()
-                            new_l = event_link_list
-                            event_link_list = []
-                            for k in new_l:
-                                d = tuple(k.items())
-                                if d not in seen:
-                                    seen.add(d)
-                                    event_link_list.append(k)
-                        # event_link_list = [x for x in event_link_list if x != []]
-                        # print(event_link_list)
-                    print((event_link_list))
-                        # e_link.append(event_link_list)
-                        
-        # print(e_link)
-        # for e in event_links:
-        #     print("This is the month" + str(mon) + "\n")
-        #     print(e)
-        #     print("\n\n\n")
-        #                 # event_links.append(event_link_list)
-        # print('\n\n')
-# # print(soup.find(''))
+        event_a = "month_" + str(mon) + "A"+ "_farbrengen_" + str(event) + "_content"
+        event_b = "month_" + str(mon) + "B"+ "_farbrengen_" + str(event) + "_content"
+        event_norm = "month_" + str(mon) + "_farbrengen_" + str(event) + "_content"
+        button_norm = []
+        button_a = []
+        button_b = []
+        if (soup.find('div', id=event_a)) == None:
+            content_norm = soup.find('div', id = event_norm)
+            but_norm = soup.find('button', id = "month_" + str(mon) + "_farbrengen_" + str(event) + "_button")
+            if(soup.find('div', id = event_norm) != None):
+                button_norm = content_norm.find_all('button', {'class': re.compile(r'farbrengen-detail-button')})
+                for b in button_norm:
+                    cont = b.find_next_sibling('div', {'class': re.compile(r'-content hidden')})
+                    if(cont != None):
+                        cont_list_norm = cont.find_all('a')
+                        for con in cont_list_norm:
+                            content.append({"content": {"link": con.attrs['href'].strip(), "title": formatString(cont.text.strip())}, "id": content_norm.attrs['id'], "event_title": formatString(but_norm.text.strip()), "event_link": (base_url.strip() + but_norm.a.attrs['href'].strip())})
+                    else:
+                        content.append({"content": {"link": None, "title": None}, "id": content_norm.attrs['id'], "event_title": formatString(but_norm.text.strip()), "event_link": (base_url.strip() + but_norm.a.attrs['href'].strip())})
+        else:
+            if(soup.find(id=event_a) != None):
+                cont_a = soup.find('div', id = event_a)
+                but_a = soup.find('button', id = "month_" + str(mon) + "A" + "_farbrengen_" + str(event) + "_button")
+                if(soup.find('div', id = event_a) != None):
+                    button_a = cont_a.find_all('button', {'class': re.compile(r'farbrengen-detail-button')})
+                    for b in button_a:
+                        cont = b.find_next_sibling('div', {'class': re.compile(r'-content hidden')})
+                        if(cont != None):
+                            cont_list_a = cont.find_all('a')
+                            for con in cont_list_a:
+                                content_a.append({"content": {"link": con.attrs['href'].strip(), "title": formatString(cont.text.strip())}, "id": cont_a.attrs['id'], "event_title": formatString(but_a.text.strip()), "event_link": (base_url.strip() + but_a.a.attrs['href'].strip())})
+                        else:
+                            content_a.append({"content": {"link": None, "title": None}, "id": cont_a.attrs['id'], "event_title": formatString(but_a.text.strip()), "event_link": (base_url.strip() + but_a.a.attrs['href'].strip())})
+            if(soup.find(id=event_b) != None):
+                cont_b = soup.find('div', id = event_b)
+                but_b = soup.find('button', id = "month_" + str(mon) + "B" + "_farbrengen_" + str(event) + "_button")
+                if(soup.find('div', id = event_b) != None):
+                    button_b = cont_b.find_all('button', {"class": re.compile(r'farbrengen-detail-button')})
+                    for b in button_b:
+                        cont = b.find_next_sibling('div', {'class': re.compile(r'-content hidden')}) 
+                        if(cont != None):
+                            cont_list_b = cont.find_all('a')
+                            for con in cont_list_b:
+                                content_b.append({"content": {"link": con.attrs['href'].strip(), "title": formatString(cont.text.strip())}, "id": cont_b.attrs['id'], "event_title": formatString(but_b.text.strip()), "event_link": (base_url.strip() + but_b.a.attrs['href'].strip())})
+                        else:
+                            content_b.append({"content": {"link": None, "title": None}, "id": cont_b.attrs['id'], "event_title": formatString(but_b.text.strip()), "event_link": (base_url.strip() + but_b.a.attrs['href'].strip())})
+    event_itmes.append(content_a)
+    event_itmes.append(content_b)
+    event_itmes.append(content)
 
-    # for event in range(1, 15):.
-    #     if mon == 6:
-    #         if (soup.find('button', {'id': "month_"+str(mon)+ "A" +"_farbrengen_" + str(event) + "_content"}) == None):
-    #             buttons = first_button_div.find(id='month_' + str(mon) + "_farbrengen_" + str(event) + "_content")
-    #         else:
-    #             buttons = first_button_div.find(id='month_' + str(mon) + "A" + "_farbrengen_" + str(event) + "_content")
-    #         if(buttons != None):
-    #             links = buttons.find_all('button')
-            # for link in links:
-                # print(formatString(link.text.strip()))
-        # print('\n\n\n\n')
+event_itmes = [x for x in event_itmes if x]
+dummy_list = event_itmes
+# event_itmes = []
+# for e in event_itmes:
+#     e = createListOfUniqueDict(e)
 
-
-# buttons = first_button_div.find(id='month_1_farbrengen_1_content')
-# links = buttons.find_all('button')
-# for link in links:
-#    print(formatString(link.text))
-
+for e in event_itmes:
+   for n in e:
+        print(str((n)) + "\n")
+   print('\n')
 # ---------------------------------------------------------------------------------------------------------------------
 
 #There will be five five code lines for getting the link of each event
-# data = {}
+# data = {} 
 # for mon in range(1, 13):
 #     button = soup.find('div', {'id': "month_" + str(mon) + "A" + "_content"}) if soup.find('div', {"id": "month_" + str(mon) + "A" + "_content"}) != None else soup.find('div', {'id': "month_" + str(mon) + "_content"})
 #     event_list = []
