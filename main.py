@@ -1,12 +1,43 @@
+import csv
 import json
 import re
+import time
 from venv import create
 from bs4 import BeautifulSoup
 import bs4
 import requests
+import ndjson
 import pandas as pd
 
-url = "https://www.mafteiach.app/all/by_year/5711/"
+# year_response = requests.get("https://www.mafteiach.app/all/by_year/5711/")
+# year_content = year_response.content
+
+# this_soup = BeautifulSoup(year_content, 'html.parser')
+
+# #List of years till year "5742"
+# list_of_years = []
+
+# years_list = this_soup.find('div', {'id': "years"})
+
+# list_of_years = years_list.find_all("button", {"class": re.compile(r'year')})
+
+# year_dummy = list_of_years
+# list_of_years = []
+
+# for i in year_dummy:
+#     k = i.attrs['id']
+#     list_of_years.append(k)
+
+# remove_list = list_of_years
+# list_of_years = []
+# for r in remove_list:
+#    l = r.replace("year_", "")
+#    list_of_years.append(l)
+
+# for year in list_of_years:
+year_v = '5710'
+
+url = "https://www.mafteiach.app/all/by_year/" + str(year_v) + "/"
 
 response = requests.get(url)
 
@@ -21,7 +52,7 @@ event_titles = [] #/
 event_dates = [] #/
 event_items = [] 
 event_links = [] #/
-
+year = ""
 def formatString(string):
     return ' '.join(i for i in string.split() if i not in banned_words )
 
@@ -44,6 +75,15 @@ def createListOfUniqueDict(l_list):
             seen.add(d)
             l_list.append(k)
     return l_list
+
+
+#Get the year
+
+
+year_div = soup.find('button', {'class': 'year side-nav-item pure-material-button-contained f4 button active scroll_me_in_to_view'})
+year = soup.find('button', {'class': 'year side-nav-item pure-material-button-contained f4 button active scroll_me_in_to_view'}).text.strip()
+year_num = year_div.attrs['id']
+
 #---------------------------------------------------------------------------------------------------------------------
 
 #Get the event dates
@@ -105,10 +145,10 @@ for mon in range(1, 14):
     id_a = "month_" + str(mon) + "A" + "_button"
     id_b = "month_" + str(mon) + "B" + "_button"
     if soup.find('button', {'id': id_a}) != None:
-        month_titles.append(soup.find('button', {'id': id_a}).text.strip())
-        month_titles.append(soup.find('button', {'id': id_b}).text.strip())
+        month_titles.append({"name": soup.find('button', {'id': id_a}).text.strip(), "value": id_a})
+        month_titles.append({"name": soup.find('button', {'id': id_b}).text.strip(), "value": id_b})
     elif soup.find('button', {'id': id}) != None:
-        month_titles.append(soup.find('button', {'id': id}).text.strip())
+        month_titles.append({"name": soup.find('button', {'id': id}).text.strip(), "value": id})
 
 # for v in month_titles:
 #     print(v)
@@ -349,16 +389,21 @@ event_titles = equalList(event_titles, max_len)
 event_links = equalList(event_links, max_len)
 event_items = equalList(event_items, max_len)
 
+year_json = {
+        "name": year,
+        "value":year_num 
+        }
 
+import csv
 #Create the csv file
-df = pd.DataFrame({'Month': json.dumps(month_titles, ensure_ascii=False), 'Event': json.dumps(event_items, ensure_ascii=False), 'Date': json.dumps(event_dates, ensure_ascii=False), 'Link': json.dumps(event_links, ensure_ascii=False) }, index=[0])
-con = df.to_csv('./data.csv', sep=',', index=False)
+df = pd.DataFrame({'Year': json.dumps(year_json, ensure_ascii=False), 'Month': json.dumps(month_titles, ensure_ascii=False), 'Event': json.dumps(event_items, ensure_ascii=False), 'Date': json.dumps(event_dates, ensure_ascii=False), 'Link': json.dumps(event_links, ensure_ascii=False) }, index=[0])
+con = df.to_csv('./' + str(year_v) + '.csv', sep=',',)        
+#Create the json file without using pandas
+# with open('./' + str(year_num) + '.json', 'w') as f:
+#     json.dump(data, f, ensure_ascii=False)
 
-kd = pd.read_csv('./data.csv')
-
-# ---------------------------------------------------------------------------------------------------------------------
-
-#print(button.get('id'))
+# --------------------------------------------------------------------------------------------------------------------
+#prnt(button.get('id'))
 #There will be two code lines to get an event title     
 # event_title_div = first_button_div.find(id='month_1_farbrengen_2')
 # print(str(event_title_div.find('div').find(class_='pa2').text))
